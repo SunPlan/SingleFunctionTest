@@ -1,0 +1,2074 @@
+<application: app.config>: init ..
+<panel(app.config) [0, 0, 144, 24]>: mark as resize
+<application: app.config>: init ok
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as resize
+<view(window.shadow) [2, 1, 142, 22]>: mark as resize
+<panel(window.frame) [0, 0, 142, 22]>: mark as resize
+<view(window.border) [0, 0, 140, 21]>: mark as resize
+<view(window.title) [0, 0, 11, 1]>: mark as resize
+<panel(window.panel) [0, 0, 140, 21]>: mark as resize
+<panel(dialog.buttons) [0, 18, 138, 19]>: mark as resize
+<view(textdialog.text) [0, 0, 138, 18]>: mark as resize
+<view(textdialog.scrollbar) [137, 0, 138, 18]>: mark as resize
+<panel(boxdialog.box) [0, 3, 138, 18]>: mark as resize
+<panel(window.frame) [0, 0, 138, 15]>: mark as resize
+<view(window.border) [0, 0, 138, 15]>: mark as resize
+<panel(window.panel) [0, 0, 138, 15]>: mark as resize
+<view(select) [0, 0, 10, 1]>: mark as resize
+<view(back) [0, 0, 8, 1]>: mark as resize
+<view(exit) [0, 0, 8, 1]>: mark as resize
+<view(help) [0, 0, 8, 1]>: mark as resize
+<view(save) [0, 0, 8, 1]>: mark as resize
+<view(mconfdialog.scrollbar) [135, 0, 136, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as resize
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<panel(menubar) [0, 0, 144, 1]>: mark as resize
+<view(menubar.title) [0, 0, 144, 1]>: mark as resize
+<panel(desktop) [0, 1, 144, 23]>: mark as resize
+<panel(statusbar) [0, 23, 144, 24]>: mark as resize
+<view(statusbar.info) [0, 0, 144, 1]>: mark as resize
+<panel(app.config) [0, 0, 144, 24]>: resize ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: resize ..
+<view(window.shadow) [2, 1, 142, 22]>: resize ..
+<panel(window.frame) [0, 0, 140, 21]>: resize ..
+<view(window.border) [0, 0, 140, 21]>: resize ..
+<view(window.title) [64, 0, 75, 1]>: resize ..
+<panel(window.panel) [1, 1, 139, 20]>: resize ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: resize ..
+<view(select) [29, 0, 39, 1]>: resize ..
+<view(back) [47, 0, 55, 1]>: resize ..
+<view(exit) [64, 0, 72, 1]>: resize ..
+<view(help) [81, 0, 89, 1]>: resize ..
+<view(save) [98, 0, 106, 1]>: resize ..
+<view(textdialog.text) [0, 0, 138, 3]>: resize ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: resize ..
+<panel(window.frame) [0, 0, 138, 15]>: resize ..
+<view(window.border) [0, 0, 138, 15]>: resize ..
+<panel(window.panel) [1, 1, 137, 14]>: resize ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: resize ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: resize ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: resize ..
+<panel(app.config) [0, 0, 144, 24]>: draw (transparent: nil) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+event(key):   32 ..
+event(key): Enter 13 ..
+event(key): Up 259 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as resize
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as resize
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as resize
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as resize
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as resize
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as resize
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as resize
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as resize
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as resize
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as resize
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.choice) [0, 0, 80, 20]>: mark as resize
+<view(window.shadow) [2, 1, 80, 20]>: mark as resize
+<panel(window.frame) [0, 0, 80, 20]>: mark as resize
+<view(window.border) [0, 0, 78, 19]>: mark as resize
+<view(window.title) [0, 0, 12, 1]>: mark as resize
+<panel(window.panel) [0, 0, 78, 19]>: mark as resize
+<panel(dialog.buttons) [0, 16, 76, 17]>: mark as resize
+<view(textdialog.text) [0, 0, 76, 16]>: mark as resize
+<view(textdialog.scrollbar) [75, 0, 76, 16]>: mark as resize
+<panel(boxdialog.box) [0, 3, 76, 16]>: mark as resize
+<panel(window.frame) [0, 0, 76, 13]>: mark as resize
+<view(window.border) [0, 0, 76, 13]>: mark as resize
+<panel(window.panel) [0, 0, 76, 13]>: mark as resize
+<view(select) [0, 0, 10, 1]>: mark as resize
+<view(cancel) [0, 0, 10, 1]>: mark as resize
+<view(choicedialog.scrollbar) [73, 0, 74, 11]>: mark as resize
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: mark as resize
+<view(choicebox.value.1) [0, 0, 73, 1]>: mark as resize
+<view(choicebox.value.2) [0, 1, 73, 2]>: mark as resize
+<view(choicebox.value.3) [0, 2, 73, 3]>: mark as resize
+<view(choicebox.value.4) [0, 3, 73, 4]>: mark as resize
+<view(choicebox.value.5) [0, 4, 73, 5]>: mark as resize
+<view(choicebox.value.6) [0, 5, 73, 6]>: mark as resize
+<view(choicebox.value.7) [0, 6, 73, 7]>: mark as resize
+<view(choicebox.value.8) [0, 7, 73, 8]>: mark as resize
+<view(choicebox.value.9) [0, 8, 73, 9]>: mark as resize
+<view(choicebox.value.10) [0, 9, 73, 10]>: mark as resize
+<view(choicebox.value.11) [0, 10, 73, 11]>: mark as resize
+<view(choicebox.value.12) [0, 11, 73, 12]>: mark as resize
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 80, 20]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 78, 19]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 78, 19]>: draw (transparent: true) ..
+<view(window.title) [23, 0, 54, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 77, 18]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: draw (transparent: nil) ..
+<view(select) [23, 0, 33, 1]>: draw (transparent: nil) ..
+<view(cancel) [42, 0, 52, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 76, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 76, 13]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 76, 13]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 75, 12]>: draw (transparent: nil) ..
+<view(choicedialog.scrollbar) [73, 0, 74, 11]>: draw (transparent: nil) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: draw (transparent: nil) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: draw (transparent: nil) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: draw (transparent: nil) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: draw (transparent: nil) ..
+<view(choicebox.value.4) [0, 3, 73, 4]>: draw (transparent: nil) ..
+<view(choicebox.value.5) [0, 4, 73, 5]>: draw (transparent: nil) ..
+<view(choicebox.value.6) [0, 5, 73, 6]>: draw (transparent: nil) ..
+<view(choicebox.value.7) [0, 6, 73, 7]>: draw (transparent: nil) ..
+<view(choicebox.value.8) [0, 7, 73, 8]>: draw (transparent: nil) ..
+<view(choicebox.value.9) [0, 8, 73, 9]>: draw (transparent: nil) ..
+<view(choicebox.value.10) [0, 9, 73, 10]>: draw (transparent: nil) ..
+<view(choicebox.value.11) [0, 10, 73, 11]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<view(window.shadow) [2, 1, 80, 20]>: refresh to mconfdialog.choice(2, 1, 80, 20) ..
+<view(window.border) [0, 0, 78, 19]>: refresh to window.frame(0, 0, 78, 19) ..
+<view(window.title) [23, 0, 54, 1]>: refresh to window.frame(23, 0, 54, 1) ..
+<view(select) [23, 0, 33, 1]>: refresh to dialog.buttons(23, 0, 33, 1) ..
+<view(cancel) [42, 0, 52, 1]>: refresh to dialog.buttons(42, 0, 52, 1) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: refresh to window.panel(0, 16, 76, 17) ..
+<view(textdialog.text) [0, 0, 76, 3]>: refresh to window.panel(0, 0, 76, 3) ..
+<view(window.border) [0, 0, 76, 13]>: refresh to window.frame(0, 0, 76, 13) ..
+<view(choicedialog.scrollbar) [73, 0, 74, 11]>: refresh to window.panel(73, 0, 74, 11) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: refresh to choicedialog.choicebox(0, 0, 73, 1) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: refresh to choicedialog.choicebox(0, 1, 73, 2) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: refresh to choicedialog.choicebox(0, 2, 73, 3) ..
+<view(choicebox.value.4) [0, 3, 73, 4]>: refresh to choicedialog.choicebox(0, 3, 73, 4) ..
+<view(choicebox.value.5) [0, 4, 73, 5]>: refresh to choicedialog.choicebox(0, 4, 73, 5) ..
+<view(choicebox.value.6) [0, 5, 73, 6]>: refresh to choicedialog.choicebox(0, 5, 73, 6) ..
+<view(choicebox.value.7) [0, 6, 73, 7]>: refresh to choicedialog.choicebox(0, 6, 73, 7) ..
+<view(choicebox.value.8) [0, 7, 73, 8]>: refresh to choicedialog.choicebox(0, 7, 73, 8) ..
+<view(choicebox.value.9) [0, 8, 73, 9]>: refresh to choicedialog.choicebox(0, 8, 73, 9) ..
+<view(choicebox.value.10) [0, 9, 73, 10]>: refresh to choicedialog.choicebox(0, 9, 73, 10) ..
+<view(choicebox.value.11) [0, 10, 73, 11]>: refresh to choicedialog.choicebox(0, 10, 73, 11) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: refresh to window.panel(0, 0, 73, 11) ..
+<panel(window.panel) [1, 1, 75, 12]>: refresh to window.frame(1, 1, 75, 12) ..
+<panel(window.frame) [0, 0, 76, 13]>: refresh to boxdialog.box(0, 0, 76, 13) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: refresh to window.panel(0, 3, 76, 16) ..
+<panel(window.panel) [1, 1, 77, 18]>: refresh to window.frame(1, 1, 77, 18) ..
+<panel(window.frame) [0, 0, 78, 19]>: refresh to mconfdialog.choice(0, 0, 78, 19) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: refresh to app.config.mconfdialog(31, 1, 111, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [23, 0, 33, 1]>): (56, 19), 1
+event(key): Esc 27 ..
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.input) [0, 0, 80, 8]>: mark as resize
+<view(window.shadow) [2, 1, 80, 8]>: mark as resize
+<panel(window.frame) [0, 0, 80, 8]>: mark as resize
+<view(window.border) [0, 0, 78, 7]>: mark as resize
+<view(window.title) [0, 0, 12, 1]>: mark as resize
+<panel(window.panel) [0, 0, 78, 7]>: mark as resize
+<panel(dialog.buttons) [0, 4, 76, 5]>: mark as resize
+<view(textdialog.text) [0, 0, 76, 4]>: mark as resize
+<view(textdialog.scrollbar) [75, 0, 76, 4]>: mark as resize
+<view(inputdialog.textedit) [0, 1, 76, 4]>: mark as resize
+<view(ok) [0, 0, 6, 1]>: mark as resize
+<view(cancel) [0, 0, 10, 1]>: mark as resize
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<panel(mconfdialog.input) [31, 7, 111, 15]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 80, 8]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 78, 7]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 78, 7]>: draw (transparent: true) ..
+<view(window.title) [16, 0, 61, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 77, 6]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 4, 76, 5]>: draw (transparent: nil) ..
+<view(ok) [25, 0, 31, 1]>: draw (transparent: nil) ..
+<view(cancel) [42, 0, 52, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 76, 3]>: draw (transparent: nil) ..
+<view(inputdialog.textedit) [0, 3, 76, 4]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<view(window.shadow) [2, 1, 80, 8]>: refresh to mconfdialog.input(2, 1, 80, 8) ..
+<view(window.border) [0, 0, 78, 7]>: refresh to window.frame(0, 0, 78, 7) ..
+<view(window.title) [16, 0, 61, 1]>: refresh to window.frame(16, 0, 61, 1) ..
+<view(ok) [25, 0, 31, 1]>: refresh to dialog.buttons(25, 0, 31, 1) ..
+<view(cancel) [42, 0, 52, 1]>: refresh to dialog.buttons(42, 0, 52, 1) ..
+<panel(dialog.buttons) [0, 4, 76, 5]>: refresh to window.panel(0, 4, 76, 5) ..
+<view(textdialog.text) [0, 0, 76, 3]>: refresh to window.panel(0, 0, 76, 3) ..
+<view(inputdialog.textedit) [0, 3, 76, 4]>: refresh to window.panel(0, 3, 76, 4) ..
+<panel(window.panel) [1, 1, 77, 6]>: refresh to window.frame(1, 1, 77, 6) ..
+<panel(window.frame) [0, 0, 78, 7]>: refresh to mconfdialog.input(0, 0, 78, 7) ..
+<panel(mconfdialog.input) [31, 7, 111, 15]>: refresh to app.config.mconfdialog(31, 7, 111, 15) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(inputdialog.textedit) [0, 3, 76, 4]>): (33, 12), 1
+event(key): Left 260 ..
+<view(ok) [25, 0, 31, 1]>: mark as redraw
+<view(ok) [25, 0, 31, 1]>: draw (transparent: nil) ..
+<view(ok) [25, 0, 31, 1]>: refresh to dialog.buttons(25, 0, 31, 1) ..
+<panel(dialog.buttons) [0, 4, 76, 5]>: refresh to window.panel(0, 4, 76, 5) ..
+<panel(window.panel) [1, 1, 77, 6]>: refresh to window.frame(1, 1, 77, 6) ..
+<panel(window.frame) [0, 0, 78, 7]>: refresh to mconfdialog.input(0, 0, 78, 7) ..
+<panel(mconfdialog.input) [31, 7, 111, 15]>: refresh to app.config.mconfdialog(31, 7, 111, 15) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(ok) [25, 0, 31, 1]>): (58, 13), 1
+event(key): Enter 13 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Esc 27 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as resize
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as resize
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as resize
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as resize
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as resize
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as resize
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as resize
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as resize
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as resize
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as resize
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Esc 27 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as resize
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as resize
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as resize
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as resize
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as resize
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as resize
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as resize
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as resize
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as resize
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as resize
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+event(key): Down 258 ..
+event(key): Up 259 ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<view(window.title) [22, 0, 56, 1]>: mark as redraw
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: mark as redraw
+<view(choicebox.value.1) [0, 0, 73, 1]>: mark as resize
+<view(choicebox.value.2) [0, 1, 73, 2]>: mark as resize
+<view(choicebox.value.3) [0, 2, 73, 3]>: mark as resize
+<view(choicedialog.scrollbar) [73, 0, 74, 11]>: mark as redraw
+<panel(window.panel) [1, 1, 75, 12]>: mark as redraw
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 80, 20]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 78, 19]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 78, 19]>: draw (transparent: true) ..
+<view(window.title) [22, 0, 56, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 77, 18]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: draw (transparent: nil) ..
+<view(select) [23, 0, 33, 1]>: draw (transparent: nil) ..
+<view(cancel) [42, 0, 52, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 76, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 76, 13]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 76, 13]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 75, 12]>: draw (transparent: nil) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: draw (transparent: nil) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: draw (transparent: nil) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: draw (transparent: nil) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<view(window.shadow) [2, 1, 80, 20]>: refresh to mconfdialog.choice(2, 1, 80, 20) ..
+<view(window.border) [0, 0, 78, 19]>: refresh to window.frame(0, 0, 78, 19) ..
+<view(window.title) [22, 0, 56, 1]>: refresh to window.frame(22, 0, 56, 1) ..
+<view(select) [23, 0, 33, 1]>: refresh to dialog.buttons(23, 0, 33, 1) ..
+<view(cancel) [42, 0, 52, 1]>: refresh to dialog.buttons(42, 0, 52, 1) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: refresh to window.panel(0, 16, 76, 17) ..
+<view(textdialog.text) [0, 0, 76, 3]>: refresh to window.panel(0, 0, 76, 3) ..
+<view(window.border) [0, 0, 76, 13]>: refresh to window.frame(0, 0, 76, 13) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: refresh to choicedialog.choicebox(0, 0, 73, 1) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: refresh to choicedialog.choicebox(0, 1, 73, 2) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: refresh to choicedialog.choicebox(0, 2, 73, 3) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: refresh to window.panel(0, 0, 73, 11) ..
+<panel(window.panel) [1, 1, 75, 12]>: refresh to window.frame(1, 1, 75, 12) ..
+<panel(window.frame) [0, 0, 76, 13]>: refresh to boxdialog.box(0, 0, 76, 13) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: refresh to window.panel(0, 3, 76, 16) ..
+<panel(window.panel) [1, 1, 77, 18]>: refresh to window.frame(1, 1, 77, 18) ..
+<panel(window.frame) [0, 0, 78, 19]>: refresh to mconfdialog.choice(0, 0, 78, 19) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: refresh to app.config.mconfdialog(31, 1, 111, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [23, 0, 33, 1]>): (56, 19), 1
+event(key): Esc 27 ..
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): AltUp 259 ..
+event(key): Up 259 ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<view(window.title) [22, 0, 56, 1]>: mark as redraw
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: mark as redraw
+<view(choicebox.value.1) [0, 0, 73, 1]>: mark as resize
+<view(choicebox.value.2) [0, 1, 73, 2]>: mark as resize
+<view(choicebox.value.3) [0, 2, 73, 3]>: mark as resize
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 80, 20]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 78, 19]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 78, 19]>: draw (transparent: true) ..
+<view(window.title) [22, 0, 56, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 77, 18]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: draw (transparent: nil) ..
+<view(select) [23, 0, 33, 1]>: draw (transparent: nil) ..
+<view(cancel) [42, 0, 52, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 76, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 76, 13]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 76, 13]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 75, 12]>: draw (transparent: nil) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: draw (transparent: nil) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: draw (transparent: nil) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: draw (transparent: nil) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<view(window.shadow) [2, 1, 80, 20]>: refresh to mconfdialog.choice(2, 1, 80, 20) ..
+<view(window.border) [0, 0, 78, 19]>: refresh to window.frame(0, 0, 78, 19) ..
+<view(window.title) [22, 0, 56, 1]>: refresh to window.frame(22, 0, 56, 1) ..
+<view(select) [23, 0, 33, 1]>: refresh to dialog.buttons(23, 0, 33, 1) ..
+<view(cancel) [42, 0, 52, 1]>: refresh to dialog.buttons(42, 0, 52, 1) ..
+<panel(dialog.buttons) [0, 16, 76, 17]>: refresh to window.panel(0, 16, 76, 17) ..
+<view(textdialog.text) [0, 0, 76, 3]>: refresh to window.panel(0, 0, 76, 3) ..
+<view(window.border) [0, 0, 76, 13]>: refresh to window.frame(0, 0, 76, 13) ..
+<view(choicebox.value.1) [0, 0, 73, 1]>: refresh to choicedialog.choicebox(0, 0, 73, 1) ..
+<view(choicebox.value.2) [0, 1, 73, 2]>: refresh to choicedialog.choicebox(0, 1, 73, 2) ..
+<view(choicebox.value.3) [0, 2, 73, 3]>: refresh to choicedialog.choicebox(0, 2, 73, 3) ..
+<panel(choicedialog.choicebox) [0, 0, 73, 11]>: refresh to window.panel(0, 0, 73, 11) ..
+<panel(window.panel) [1, 1, 75, 12]>: refresh to window.frame(1, 1, 75, 12) ..
+<panel(window.frame) [0, 0, 76, 13]>: refresh to boxdialog.box(0, 0, 76, 13) ..
+<panel(boxdialog.box) [0, 3, 76, 16]>: refresh to window.panel(0, 3, 76, 16) ..
+<panel(window.panel) [1, 1, 77, 18]>: refresh to window.frame(1, 1, 77, 18) ..
+<panel(window.frame) [0, 0, 78, 19]>: refresh to mconfdialog.choice(0, 0, 78, 19) ..
+<panel(mconfdialog.choice) [31, 1, 111, 21]>: refresh to app.config.mconfdialog(31, 1, 111, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [23, 0, 33, 1]>): (56, 19), 1
+event(key): Esc 27 ..
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: mark as redraw
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 140, 21]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 140, 21]>: draw (transparent: true) ..
+<view(window.title) [64, 0, 75, 1]>: draw (transparent: nil) ..
+<panel(window.panel) [1, 1, 139, 20]>: draw (transparent: nil) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(help) [81, 0, 89, 1]>: draw (transparent: nil) ..
+<view(save) [98, 0, 106, 1]>: draw (transparent: nil) ..
+<view(textdialog.text) [0, 0, 138, 3]>: draw (transparent: nil) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: draw (transparent: nil) ..
+<panel(window.frame) [0, 0, 138, 15]>: draw (transparent: nil) ..
+<view(window.border) [0, 0, 138, 15]>: draw (transparent: true) ..
+<panel(window.panel) [1, 1, 137, 14]>: draw (transparent: nil) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(window.shadow) [2, 1, 142, 22]>: refresh to app.config.mconfdialog(2, 1, 142, 22) ..
+<view(window.border) [0, 0, 140, 21]>: refresh to window.frame(0, 0, 140, 21) ..
+<view(window.title) [64, 0, 75, 1]>: refresh to window.frame(64, 0, 75, 1) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<view(help) [81, 0, 89, 1]>: refresh to dialog.buttons(81, 0, 89, 1) ..
+<view(save) [98, 0, 106, 1]>: refresh to dialog.buttons(98, 0, 106, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<view(textdialog.text) [0, 0, 138, 3]>: refresh to window.panel(0, 0, 138, 3) ..
+<view(window.border) [0, 0, 138, 15]>: refresh to window.frame(0, 0, 138, 15) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Esc 27 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as resize
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as resize
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as resize
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as resize
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as resize
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as resize
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as resize
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as resize
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as resize
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as resize
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): AltEsc 27 ..
+event(key): Esc 27 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Right 261 ..
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Right 261 ..
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(exit) [64, 0, 72, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(exit) [64, 0, 72, 1]>): (66, 20), 1
+event(key): Left 260 ..
+<view(exit) [64, 0, 72, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Left 260 ..
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+event(key): Up 259 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as resize
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as resize
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as resize
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as resize
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as resize
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as resize
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as resize
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as resize
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as resize
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as resize
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(select) [29, 0, 39, 1]>): (31, 20), 1
+event(key): Right 261 ..
+<view(select) [29, 0, 39, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(select) [29, 0, 39, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(select) [29, 0, 39, 1]>: refresh to dialog.buttons(29, 0, 39, 1) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.3) [0, 2, 135, 3]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.3) [0, 2, 135, 3]>: refresh to mconfdialog.menuconf(0, 2, 135, 3) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.4) [0, 3, 135, 4]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.4) [0, 3, 135, 4]>: refresh to mconfdialog.menuconf(0, 3, 135, 4) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.5) [0, 4, 135, 5]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.5) [0, 4, 135, 5]>: refresh to mconfdialog.menuconf(0, 4, 135, 5) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.6) [0, 5, 135, 6]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.6) [0, 5, 135, 6]>: refresh to mconfdialog.menuconf(0, 5, 135, 6) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.7) [0, 6, 135, 7]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.7) [0, 6, 135, 7]>: refresh to mconfdialog.menuconf(0, 6, 135, 7) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.8) [0, 7, 135, 8]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.8) [0, 7, 135, 8]>: refresh to mconfdialog.menuconf(0, 7, 135, 8) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.9) [0, 8, 135, 9]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.9) [0, 8, 135, 9]>: refresh to mconfdialog.menuconf(0, 8, 135, 9) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.10) [0, 9, 135, 10]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.10) [0, 9, 135, 10]>: refresh to mconfdialog.menuconf(0, 9, 135, 10) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Down 258 ..
+event(key): Up 259 ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<view(menuconf.config.13) [0, 12, 135, 13]>: refresh to mconfdialog.menuconf(0, 12, 135, 13) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Up 259 ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: mark as redraw
+<view(menuconf.config.11) [0, 10, 135, 11]>: draw (transparent: nil) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: draw (transparent: nil) ..
+<view(menuconf.config.11) [0, 10, 135, 11]>: refresh to mconfdialog.menuconf(0, 10, 135, 11) ..
+<view(menuconf.config.12) [0, 11, 135, 12]>: refresh to mconfdialog.menuconf(0, 11, 135, 12) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Enter 13 ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: mark as redraw
+<view(menuconf.config.1) [0, 0, 135, 1]>: mark as resize
+<view(menuconf.config.2) [0, 1, 135, 2]>: mark as resize
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: draw (transparent: nil) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: draw (transparent: nil) ..
+<view(menuconf.config.1) [0, 0, 135, 1]>: refresh to mconfdialog.menuconf(0, 0, 135, 1) ..
+<view(menuconf.config.2) [0, 1, 135, 2]>: refresh to mconfdialog.menuconf(0, 1, 135, 2) ..
+<panel(mconfdialog.menuconf) [0, 0, 135, 13]>: refresh to window.panel(0, 0, 135, 13) ..
+<panel(window.panel) [1, 1, 137, 14]>: refresh to window.frame(1, 1, 137, 14) ..
+<panel(window.frame) [0, 0, 138, 15]>: refresh to boxdialog.box(0, 0, 138, 15) ..
+<panel(boxdialog.box) [0, 3, 138, 18]>: refresh to window.panel(0, 3, 138, 18) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config(1, 1, 143, 23) ..
+<panel(app.config) [0, 0, 144, 24]>: refresh ..
+cursor(<view(back) [47, 0, 55, 1]>): (49, 20), 1
+event(key): Esc 27 ..
+event(key): Esc 27 ..
+event(key): Right 261 ..
+<view(back) [47, 0, 55, 1]>: mark as redraw
+<view(exit) [64, 0, 72, 1]>: mark as redraw
+<view(back) [47, 0, 55, 1]>: draw (transparent: nil) ..
+<view(exit) [64, 0, 72, 1]>: draw (transparent: nil) ..
+<view(back) [47, 0, 55, 1]>: refresh to dialog.buttons(47, 0, 55, 1) ..
+<view(exit) [64, 0, 72, 1]>: refresh to dialog.buttons(64, 0, 72, 1) ..
+<panel(dialog.buttons) [0, 18, 138, 19]>: refresh to window.panel(0, 18, 138, 19) ..
+<panel(window.panel) [1, 1, 139, 20]>: refresh to window.frame(1, 1, 139, 20) ..
+<panel(window.frame) [0, 0, 140, 21]>: refresh to app.config.mconfdialog(0, 0, 140, 21) ..
+<panel(app.config.mconfdialog) [1, 1, 143, 23]>: refresh to app.config

@@ -1,0 +1,22 @@
+{
+    find_programver = {
+        ["/usr/bin/gcc"] = "9.3.0-17ubuntu1"
+    },
+    find_program_gcc_arch_x86_64_plat_linux = {
+        ["g++"] = "/usr/bin/g++",
+        gcc = "/usr/bin/gcc"
+    },
+    ["lib.detect.has_flags"] = {
+        ["linux_x86_64_/usr/bin/gcc_9.3.0-17ubuntu1_cc_cxflags_-m64_-MMD -MF"] = true,
+        ["linux_x86_64_/usr/bin/gcc_9.3.0-17ubuntu1_cc_cxflags_-m64_-fdiagnostics-color=always"] = true,
+        ["linux_x86_64_/usr/bin/gcc_9.3.0-17ubuntu1_cc_cxflags_-m64_-fcolor-diagnostics"] = false
+    },
+    find_program = {
+        ldc2 = false,
+        ["/usr/bin/gcc"] = "/usr/bin/gcc",
+        gdc = false,
+        dmd = false,
+        gcc = "/usr/bin/gcc",
+        ccache = "/usr/bin/ccache"
+    }
+}
