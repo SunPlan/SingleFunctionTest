@@ -34,3 +34,11 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+
+<div class="mermaid">
+     graph LR
+      A --- B
+      B-->C[fa:fa-ban forbidden]
+      B-->D(fa:fa-spinner);
+</div>
