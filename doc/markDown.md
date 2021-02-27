@@ -22,6 +22,7 @@ graph TD;
     C-->D;
 
 
-mermaid
+```mermaid
 graph TD
    A --> B
+```
