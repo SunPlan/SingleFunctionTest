@@ -2,7 +2,7 @@
 
 
 
-```flow
+```mermaid
 st=>start: 开始框
 op=>operation: 处理框
 cond=>condition: 判断框(是或否?)
