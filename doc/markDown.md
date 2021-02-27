@@ -14,13 +14,13 @@ cond(yes)->io->e
 cond(no)->sub1(right)->op
 ```
 
-
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-
+```
 
 ```mermaid
 graph TD
