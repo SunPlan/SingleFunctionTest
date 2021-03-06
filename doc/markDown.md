@@ -2,7 +2,7 @@
 
 
 
-```flow
+```mermaid
 st=>start: 开始框
 op=>operation: 处理框
 cond=>condition: 判断框(是或否?)
@@ -13,3 +13,32 @@ st->op->cond
 cond(yes)->io->e
 cond(no)->sub1(right)->op
 ```
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```mermaid
+graph TD
+   A --> B
+```
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
+
+
+<div class="mermaid">
+     graph LR
+      A --- B
+      B-->C
+      B-->D
+</div>
