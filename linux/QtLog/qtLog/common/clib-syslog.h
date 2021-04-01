@@ -23,6 +23,13 @@
 #include <syslog.h>
 #include <stdlib.h>
 #include <string.h>
+#include <sys/file.h>
+#include <sys/stat.h>
+#include <sys/types.h>
+#include <time.h>
+#include <unistd.h>
+#include <fcntl.h>
+
 
 #ifdef __cplusplus
 extern "C" {
@@ -41,7 +48,7 @@ extern "C" {
 #endif
 
 #define CT_SYSLOG(logLevel,...) {\
-    syslog_info(logLevel, MODULE_NAME, __FILE__, __func__, __LINE__, ##__VA_ARGS__);\
+    syslog_to_self_dir(logLevel, MODULE_NAME, __FILE__, __func__, __LINE__, ##__VA_ARGS__);\
 }
 
 
@@ -65,7 +72,7 @@ void syslog_init(const char *category, int facility);
  *      void
  */
 void syslog_info(int logLevel, const char *moduleName, const char *fileName, const char *functionName, int line, const char* fmt, ...);
-
+void syslog_to_self_dir(int logLevel, const char *moduleName, const char *fileName, const char *functionName, int line, const char* fmt, ...);
 #ifdef __cplusplus
 }
 #endif
